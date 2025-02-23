@@ -1,4 +1,4 @@
-# Hi there!👋 I'm Nur Alya Batrisyia
+# Hi there!👋 I'm Alya
 
 Welcome to my GitHub! 
 I'm an Electrical and Electronics Engineering student specialising in Computer and Information Engineering. 
