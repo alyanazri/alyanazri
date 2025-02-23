@@ -1,15 +1,22 @@
 # Hi there!👋 I'm Alya
 
 Welcome to my GitHub! 
+
 I'm an Electrical and Electronics Engineering student specialising in Computer and Information Engineering. 
+
 My interests lie in Data Science, AI and Software Development.
+
 I'm always looking to expand my knowledge and skills.
 
 ## 🚀 About Me
 🎓 Final Year Student at International Islamic University Malaysia (IIUM)
+
 💡 Passionate about AI, Machine Learning and Data Analytics
-📊 Experienced with financial data analysis and data visualization
-🛠️ Skilled in Python, SQL, and software development methodologies
+
+📊 Experienced with financial data analysis and data visualisation
+
+🛠️ Skilled in Python, SQL and software development methodologies
+
 🎯 Currently working on NLP-based stress detection using AI for my Final Year Project
 
 ## 📚 Learning & Certifications
