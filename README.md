@@ -15,9 +15,8 @@ I'm always looking to expand my knowledge and skills.
 ## 📚 Learning & Certifications
 I'm actively taking free certifications from freeCodeCamp to enhance my skills in:
 
-Data Science & Machine Learning
-
-Python & SQL
+✅ **freeCodeCamp** – Data Science & Machine Learning, Python & SQL  
+✅ **Microsoft Learn** – Power BI & Azure Fundamentals
 
 ## 📫 Let's Connect!
 LinkedIn:https://www.linkedin.com/in/nur-alya-batrisyia-nazri-7a89b5194/
