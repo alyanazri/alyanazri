@@ -28,6 +28,4 @@ I'm actively taking free certifications from freeCodeCamp to enhance my skills i
 ## 📫 Let's Connect!
 LinkedIn:https://www.linkedin.com/in/nur-alya-batrisyia-nazri-7a89b5194/
 
-Email: nurlyaanazrii@gmail.com
-
 Thanks for stopping by! 😊
